@@ -3,7 +3,7 @@
 Welcome to the Predicting Population Growth in Saudi Arabia repository! This project leverages data science techniques to forecast population trends in Saudi Arabia. The repository includes data analysis and  predictive modeling to provide insights into future population growth.
 
 
-  ## Student Lab Creator Information:
+  ## Student Project Creator Information:
 
 | Student Name       | GitHub Account    |
 |--------------------|-------------------|
